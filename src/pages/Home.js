@@ -17,4 +17,5 @@ const Home = async () => {
   return view;
 };
 
+/* Exporting the Home function to be used in other files. */
 export default Home;
